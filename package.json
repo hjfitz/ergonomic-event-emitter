@@ -1,0 +1,13 @@
+{
+  "name": "nice-emitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  }
+}
